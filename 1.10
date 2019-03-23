@@ -1,0 +1,8 @@
+matlab: a practical approach
+exercise
+
+r=1;
+theta=30;
+
+x=r*cosd(theta)
+y=r*sin(theta)
