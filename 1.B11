@@ -1,0 +1,10 @@
+matlab: a practical approach
+exercise
+
+%fix operator rounds num to 0 ; floor operator rounds num to minus infinity ; ceil operator rounds num to plus infinity
+
+elfun (optional) 
+
+fix(3.5)
+floor(3.5)
+ceil(-3.2)
