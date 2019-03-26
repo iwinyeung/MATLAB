@@ -1,0 +1,21 @@
+matlab: a practical approach
+exercise
+
+rand
+% Real number in the range from 0 to 1
+
+rand*20
+% Real number in the range from 0 to 20
+
+rand*(50-20)+20
+% Real number in the range from 20 to 50
+
+randi(10)
+% Integer in the range from 0 to 10
+
+randi(11)
+% Integer in the range from 0 to 11
+
+randi([50,100])
+% Integer in the range from 50 to 100
+
