@@ -1,0 +1,12 @@
+matlab: a practical approach
+exercise
+
+
+
+
+x=[3:1:6]
+% generates vector [3 4 5 6]
+y=[1:0.5:3]
+% generates vector [1 1.5 2 2.5 3]
+z=[5:-1:2]
+% generates vector [5 4 3 2]
