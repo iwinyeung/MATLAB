@@ -1,0 +1,9 @@
+matlab: a practical approach
+exercise
+
+nv = linspace(4,8,3)
+% generates vector [4 6 8]
+nv = linspace(-3,-15,5)
+% generates vector [-3 -6 -9 -12 -15]
+nv = linspace(5,2,4)
+% generates vector [9 7 5]
