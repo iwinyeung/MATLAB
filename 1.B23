@@ -1,0 +1,10 @@
+matlab: a practical approach
+exercise
+
+x = linspace(1,10,10)
+[1:10]
+% Generating vector using linspace and colon operator
+
+x = linspace(2,12,3)
+[2:5:12]
+% Generating vector using linspace and colon operator
