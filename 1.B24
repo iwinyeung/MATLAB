@@ -1,0 +1,9 @@
+matlab: a practical approach
+exercise
+
+[1:3:randi([8,12])]
+
+or 
+
+myend=randi([8,12]);
+v=[1:3:myend]
