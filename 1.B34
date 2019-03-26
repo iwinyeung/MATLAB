@@ -1,0 +1,6 @@
+matlab: a practical approach
+exercise
+
+
+v = linspace(-pi,pi,20)
+y = sin(v)
