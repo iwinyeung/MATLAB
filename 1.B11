@@ -1,0 +1,8 @@
+matlab: a practical approach
+exercise
+
+
+T = randi(100);
+V = randi(20);
+
+WCF = 35.7 + 0.6*T - 35.7*(0.16*V) + 0.43*T*(0.16*V)
