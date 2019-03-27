@@ -1,0 +1,8 @@
+matlab: a practical approach
+exercise
+
+% generates a matrix of [1     2     3     4 ; 1     1     1     1]
+
+mat = zeros(2,4)
+mat(1,:) = 1:4
+mat(2,:) = 1
