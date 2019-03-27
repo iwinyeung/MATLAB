@@ -1,0 +1,7 @@
+matlab: a practical approach
+exercise
+% generates a 3x5 matrix in the inclusive ranger from -5 to 5 and retrieves the sign of every element
+
+p = randi([-5,5],3,5)
+sign(p)
+
