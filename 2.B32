@@ -1,0 +1,12 @@
+matlab: a practical approach
+exercise
+
+mat = [1 2 ; 3 4]
+prod(mat(1,:)
+% calc product of row 1
+prod(mat(2,:)
+% calc product of row 2
+prod(mat(:,1)
+% calc product of column 1
+prod(mat(:,2)
+% calc product of column 2
