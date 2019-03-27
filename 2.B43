@@ -1,0 +1,15 @@
+matlab: a practical approach
+exercise
+
+A = [4 1 -1 ; 2 3 0]
+B = [1 4]
+C = [2 ; 3]
+
+A*B
+% not possible
+
+B*C
+% answer: 14
+
+C*B
+% answer: [2 8 ; 3 12]
