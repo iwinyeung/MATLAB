@@ -1,0 +1,5 @@
+matlab: a practical approach
+exercise
+
+sum(3:2:11)
+% finds the sum 3+5+7+9+11
