@@ -1,0 +1,12 @@
+matlab: a practical approach
+exercise
+
+A = [1 2 3 ; 4 -1 6]
+B = [2 4 1 ; 1 3 0]
+
+A + B 
+% answer exists
+A - B 
+% answer exists
+A * B 
+% Does not exist
