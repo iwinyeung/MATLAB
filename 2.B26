@@ -1,0 +1,9 @@
+matlab: a practical approach
+exercise
+
+w=(:,:,1) = zeros(2,4)
+w=(:,:,2) = ones(2,4)
+w=(:,:,3) = 5*ones(2,4)
+size(w) 
+
+% creates a three-dimensional matrix with dimensions 2 x 4 x 3 in which the first layer is all 0 s, the second is all 1 s and the third is all 5's
