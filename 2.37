@@ -1,0 +1,14 @@
+matlab: a practical approach
+exercise
+
+% Three ways to create a 3 x 5 matrix of all 100s 
+
+% Method 1: Brute Force 
+x = 100;
+A = [x x x x x ; x x x x x ; x x x x x]
+
+% Method 2: Using ones(x,y)
+B = 100*ones(3,5)
+
+% Method 3: Using zeros(x,y)
+C = 100 + zeros(3,5)
