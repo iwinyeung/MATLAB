@@ -1,0 +1,5 @@
+matlab: a practical approach
+exercise
+
+A = [-1:0.2:1]
+A'
