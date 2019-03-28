@@ -1,0 +1,12 @@
+matlab: a practical approach
+exercise
+
+rows = randi([1,5])
+cols = randi([1,5])
+
+
+zeros(rows,cols)
+
+% alternatively,
+
+zeros(randi([1,5]),randi([1,5]))
