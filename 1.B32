@@ -1,0 +1,5 @@
+matlab: a practical approach
+exercise
+
+mymat = [2 5 8 ; 7 5 3]
+mymat'
