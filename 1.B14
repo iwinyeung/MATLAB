@@ -1,0 +1,9 @@
+matlab: a practical approach
+exercise
+% the range of values that can be stored in the types int32 and int64.
+
+intmin int32
+intmax int32
+
+intmin int64
+intmax int64
