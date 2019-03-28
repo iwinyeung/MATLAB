@@ -1,0 +1,5 @@
+matlab: a practical approach
+exercise
+
+mat = randi([-5,5],3,5)
+sign(mat)
