@@ -1,0 +1,5 @@
+matlab: a practical approach
+exercise
+
+z = zeros(4,2)
+z(2,:) = [3,6]
