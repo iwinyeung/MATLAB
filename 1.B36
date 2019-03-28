@@ -1,0 +1,6 @@
+matlab: a practical approach
+exercise
+%stores for each element the absolute value of the corresponding element in the original matrix.
+
+mat = randi([-5,5],3,5)
+abs(mat)
