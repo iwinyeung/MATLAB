@@ -1,0 +1,9 @@
+matlab: a practical approach
+exercise
+
+int32('a')
+int32('A')
+int32('b')
+int32('B')
+
+% Capital letters come first because 'a' returns 97 and 'A' returns 65 and so forth for 'b' and 'B'
