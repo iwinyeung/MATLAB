@@ -1,0 +1,7 @@
+matlab: a practical approach
+exercise
+
+int32('xyz')
+% original string
+int32('xyz'+2)
+% shifts string up in the character encoding scheme
