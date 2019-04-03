@@ -1,0 +1,8 @@
+matlab: a practical approach
+exercise
+
+fliplr(mat)
+% flips matrix mat to the left
+
+mat = fliplr(mat)
+% flips matrix mat and replaces mat with the flipped result
