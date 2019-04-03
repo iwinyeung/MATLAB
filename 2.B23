@@ -1,0 +1,11 @@
+matlab: a practical approach
+exercise
+
+x = [1 2 3 4]
+mat = reshape(x,2,2)
+
+repelem(mat,2,3)
+
+repmat(mat,2,3)
+
+
