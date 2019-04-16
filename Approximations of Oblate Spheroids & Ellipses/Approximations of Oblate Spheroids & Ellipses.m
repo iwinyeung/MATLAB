@@ -1,4 +1,3 @@
-%%Homework 01 
 %%Author: Iwin Yeung
 %%Date: 04/08/2019
 
@@ -10,8 +9,8 @@ clc
 %%  Call input for Example Switch Number
 
 
-%Asks user to select homework problem number
-example = input('Enter the homework problem, either 1 or 2, you wanna test out: \n');
+%Asks user to select project 1 or 2
+example = input('Enter the problem, either 1 or 2, you wanna test out: \n');
 if (example ~= 1 && example ~= 2)
    fprintf('Error, please enter 1 or 2 and restart program \n');
 end
